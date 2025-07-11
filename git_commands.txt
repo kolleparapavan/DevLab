@@ -1,0 +1,18 @@
+dir/ls-To get the files in the current directory
+git --version -to know the version of the git
+mkdir FileName - to create folder 
+cd FileName -to change the location of path
+pwd-to know the path of current directory
+
+We need to assign name and email to directory by:
+git config --global user.name "Name" -by default the name will set for every projects
+git config --local user.name "Name" -to set the name for only this current project
+
+git config --global user.email "Name.@gmail.com" -by default the email will set for every projects
+git config --local user.email "Name@gmail.com" -to set the email for only this current project
+
+git init -The git init command is used to create a new Git repository. When you run this command, Git sets up the necessary structures and files in the current directory, allowing you to start tracking changes.
+
+git add "FileName" -To append local files to Stagging Area
+git add -a -To append all files   
+
