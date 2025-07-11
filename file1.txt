@@ -1,1 +1,2 @@
 New branch created
+Message from Git
